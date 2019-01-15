@@ -1,0 +1,55 @@
+[{
+        "id": 6,
+        "name": "西红柿",
+        "price": 4.99,
+        "image": "https://img14.360buyimg.com/n7/jfs/t17323/59/2386555549/304517/11083d2b/5af2c1d3N8c9fc217.jpg",
+        "size": ["500g", "1kg"],
+        "totality": 1,
+        "store_id": 1
+    },
+    {
+        "id": 1,
+        "name": "油麦菜",
+        "price": 3.80,
+        "image": "https://img12.360buyimg.com/n7/jfs/t3034/233/677935682/395528/8fa38122/57ac2795N0fe7f503.jpg",
+        "size": ["500g", "1kg"],
+        "totality": 2,
+        "store_id": 1
+    },
+    {
+        "id": 3,
+        "name": "胡萝卜",
+        "price": 10.89,
+        "image": "https://img10.360buyimg.com/n7/jfs/t6913/286/252724674/273306/82c2461b/59748b7eNbbd2919f.jpg",
+        "size": ["1kg"],
+        "totality": 1,
+        "store_id": 1
+    },
+    {
+        "id": 2,
+        "name": "茼蒿菜",
+        "price": 6.7,
+        "image": "https://img10.360buyimg.com/n7/jfs/t7771/107/4095542271/184948/d51ec605/5a041739N582c9e69.jpg",
+        "size": ["500g", "1kg"],
+        "totality": 1,
+        "store_id": 2
+    },
+    {
+        "id": 5,
+        "name": "玉米",
+        "price": 5.50,
+        "image": "https://img12.360buyimg.com/n7/jfs/t24010/205/1239705166/415864/7868f5e7/5b57cbf9Nb14ceac2.jpg",
+        "size": ["500g"],
+        "totality": 1,
+        "store_id": 3
+    },
+    {
+        "id": 4,
+        "name": "土豆",
+        "price": 3.20,
+        "image": "https://img13.360buyimg.com/n7/jfs/t1/15623/14/1291/132559/5c111917E73fe4f9c/db1869bab4905b29.jpg",
+        "size": ["500g", "1kg"],
+        "totality": 1,
+        "store_id": 2
+    }
+]

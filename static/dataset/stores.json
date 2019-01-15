@@ -1,0 +1,16 @@
+[{
+        "id": 1,
+        "name": "蔬加自营",
+        "logo": "../../static/image/dealer-logo.png"
+    },
+    {
+        "id": 2,
+        "name": "蔬果汇",
+        "logo": "../../static/image/dealer-logo.png"
+    },
+    {
+        "id": 3,
+        "name": "绿蔬铺子",
+        "logo": "../../static/image/dealer-logo.png"
+    }
+]

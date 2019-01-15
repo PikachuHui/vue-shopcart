@@ -1,0 +1,28 @@
+@charset "utf8";
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: #f7f7f7;
+}
+
+body {
+    margin: 0 auto;
+    width: 540px;
+    max-width: 540px;
+}
+
+input[type="checkbox"] {
+    width: 1rem;
+    height: 1rem;
+}
+
+@media(max-width: 540px) {
+    body,
+    .settle-container {
+        width: 100%;
+        max-width: 100%;
+    }
+}
