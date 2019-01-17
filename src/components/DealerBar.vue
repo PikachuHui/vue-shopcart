@@ -12,7 +12,17 @@
 <script>
 export default {
     name: 'DealerBar',
-    props: ['id', 'name', 'logo'],
+    props: {
+        id: {
+            type: Number,
+            required: true
+        },
+        name: {
+            type: String,
+            required: true
+        },
+        logo: String
+    },
     data() {
         return {
             display: true,

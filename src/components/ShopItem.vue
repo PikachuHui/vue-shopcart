@@ -29,7 +29,12 @@
 <script>
 export default {
     name: 'ShopItem',
-    props: ['item'],
+    props: {
+        item: {
+            type: Object,
+            required: true
+        }
+    },
     data() {
         return {
             display: true,

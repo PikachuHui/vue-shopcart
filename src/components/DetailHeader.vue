@@ -10,7 +10,12 @@
 <script>
 export default {
     name: 'DetailHeader',
-    props: ['page_title'],
+    props: {
+        page_title: {
+            type: String,
+            required: true
+        }
+    },
     methods: {
         goback() {
             this.$router.back();
